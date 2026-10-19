@@ -1,4 +1,4 @@
-baseURL: 'http://myblog-8na.pages.dev/'
+baseURL : 'https://ruz1030.me/'
 title: ExampleSite
 paginate: 5
 theme: PaperMod
